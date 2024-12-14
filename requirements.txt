@@ -1,5 +1,5 @@
 streamlit
 joblib
-docx
+python-docx
 PyPDF2
 scikit-learn
