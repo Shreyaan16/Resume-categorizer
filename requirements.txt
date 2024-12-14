@@ -1,0 +1,5 @@
+streamlit
+joblib
+docx
+PyPDF2
+scikit-learn
